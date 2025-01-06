@@ -4,7 +4,7 @@ int main()
 {
 
     int num;
-    
+    //change
     cout << "Welcome to the Vending Machine!\n";
     cout << "Please select a snack:\n";
     cout << "1. Chips\n";
